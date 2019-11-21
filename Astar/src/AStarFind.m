@@ -1,5 +1,5 @@
 %function AStarFind()
-    obstlist = [0,0;1 3;2 4;5,5]; % 障碍物中心位置，假设单位是米
+    obstlist = [0,0;1 3;2 2;5,5]; % 障碍物中心位置，假设单位是米
     gres = 0.2; % 栅格尺寸为0.2米
     [minx,miny,obmap] = CalcObstMap(obstlist,gres); % minx miny其实是地图的
     
