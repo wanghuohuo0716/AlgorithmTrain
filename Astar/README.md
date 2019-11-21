@@ -1,5 +1,6 @@
 # A*搜索算法
 ## 核心思想
+![](https://github.com/wanghuohuo0716/algorithm-recurrence/blob/master/Astar/image/Result.png)
 ![](https://github.com/wanghuohuo0716/algorithm-recurrence/blob/master/Astar/image/MindStructure.png)
 
 ## 注意
